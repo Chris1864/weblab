@@ -1,0 +1,17 @@
+.container {
+    margin-top: 25px;
+}
+body {
+    background-color: #909090;
+}
+.card-text {
+    font-size: small;
+   
+}
+.card {
+    border: 15px solid white ;
+    
+}
+.card-title {
+    font-size: 18px;
+}
